@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/CinemaTV/static/css/main.d7042fd2.css",
-    "main.js": "/CinemaTV/static/js/main.90bc7047.js",
+    "main.js": "/CinemaTV/static/js/main.200696cb.js",
     "static/media/backup.jpg": "/CinemaTV/static/media/backup.fc5c5320e36020285439.jpg",
     "index.html": "/CinemaTV/index.html",
     "main.d7042fd2.css.map": "/CinemaTV/static/css/main.d7042fd2.css.map",
-    "main.90bc7047.js.map": "/CinemaTV/static/js/main.90bc7047.js.map"
+    "main.200696cb.js.map": "/CinemaTV/static/js/main.200696cb.js.map"
   },
   "entrypoints": [
     "static/css/main.d7042fd2.css",
-    "static/js/main.90bc7047.js"
+    "static/js/main.200696cb.js"
   ]
 }
